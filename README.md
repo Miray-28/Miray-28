@@ -1,6 +1,13 @@
-<p align="center">
-  <img src="./banner-ascii.svg" alt="MIRAY — bannière ASCII en style terminal." width="100%" />
-</p>
+<div align="center">
+<pre>
+███╗   ███╗██╗██████╗  █████╗ ██╗   ██╗
+████╗ ████║██║██╔══██╗██╔══██╗╚██╗ ██╔╝
+██╔████╔██║██║██████╔╝███████║ ╚████╔╝ 
+██║╚██╔╝██║██║██╔══██╗██╔══██║  ╚██╔╝  
+██║ ╚═╝ ██║██║██║  ██║██║  ██║   ██║   
+╚═╝     ╚═╝╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   
+</pre>
+</div>
 
 <p align="center"><strong>Cybersécurité · Linux · CTF</strong></p>
 
@@ -30,19 +37,23 @@ Je pratique la cybersécurité sur TryHackMe et je fais des CTF. Je maîtrise Li
 ### `~/skills`
 
 <p align="center">
-  <img src="./skills.svg" alt="Information Gathering, OSINT, Port Scanning, Service Enumeration, Ethical Hacking, Web Pentesting, Network and System Pentesting, Red Teaming, CTF, Privilege Escalation, Reverse Engineering, Linux, Networking, Switch Configuration, Python" width="100%" />
+  <kbd>Information Gathering</kbd> &nbsp; <kbd>OSINT</kbd> &nbsp; <kbd>Port Scanning</kbd> &nbsp; <kbd>Service Enumeration</kbd><br><br>
+  <kbd>Ethical Hacking</kbd> &nbsp; <kbd>Web Pentesting</kbd> &nbsp; <kbd>Network &amp; System Pentesting</kbd> &nbsp; <kbd>Red Teaming</kbd><br><br>
+  <kbd>CTF</kbd> &nbsp; <kbd>Privilege Escalation</kbd> &nbsp; <kbd>Reverse Engineering</kbd><br><br>
+  <kbd>Linux</kbd> &nbsp; <kbd>Networking</kbd> &nbsp; <kbd>Switch Configuration</kbd> &nbsp; <kbd>Python</kbd>
 </p>
 
 ### `~/tools`
 
 <p align="center">
-  <img src="./tools.svg" alt="Mes outils : Nmap, dirsearch, Metasploit, sqlmap, Hashcat, Burp Suite, Wireshark. Système : Debian." width="100%" />
+  <kbd>Nmap</kbd> &nbsp; <kbd>dirsearch</kbd> &nbsp; <kbd>Metasploit</kbd> &nbsp; <kbd>sqlmap</kbd><br><br>
+  <kbd>Hashcat</kbd> &nbsp; <kbd>Burp Suite</kbd> &nbsp; <kbd>Wireshark</kbd> &nbsp; <kbd>Debian</kbd>
 </p>
 
 ### `~/hardware`
 
 <p align="center">
-  <img src="./hardware.svg" alt="Mon matériel : Flipper Zero, Raspberry Pi 3B+, ESP32, M5StickC et multimètre." width="100%" />
+  <kbd>Flipper Zero</kbd> &nbsp; <kbd>Raspberry Pi 3B+</kbd> &nbsp; <kbd>ESP32</kbd> &nbsp; <kbd>M5StickC</kbd> &nbsp; <kbd>Multimètre</kbd>
 </p>
 
 ### Mon parcours
