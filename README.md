@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="./banner.svg" alt="MIRAY — Linux, cybersécurité et hardware. Debian, France." width="100%" />
+  <img src="./banner.svg" alt="MIRAY — bannière ASCII en style terminal." width="100%" />
 </p>
 
-<p align="center"><strong>Cybersécurité · Linux · Réparation de téléphones</strong></p>
+<p align="center"><strong>Cybersécurité · Linux · CTF</strong></p>
 
 <p align="center">
   <a href="https://miray-28.github.io/">Mon site</a> &nbsp; / &nbsp;
@@ -18,7 +18,7 @@
 
 Moi, c’est **miray**. 17 ans, en France.
 
-Je pratique la cybersécurité sur TryHackMe et je fais des CTF. Je maîtrise Linux et j’utilise **Debian** au quotidien. À côté, je répare des téléphones : **écrans et batteries**.
+Je pratique la cybersécurité sur TryHackMe et je fais des CTF. Je maîtrise Linux et j’utilise **Debian** au quotidien.
 
 | Profil | |
 | :--- | :--- |
@@ -44,11 +44,6 @@ Je pratique la cybersécurité sur TryHackMe et je fais des CTF. Je maîtrise Li
 <p align="center">
   <img src="./hardware.svg" alt="Mon matériel : Flipper Zero, Raspberry Pi 3B+, ESP32, M5StickC et multimètre." width="100%" />
 </p>
-
-### Réparation de téléphones
-
-- Changement d’écran.
-- Remplacement de batterie.
 
 ### Mon parcours
 
