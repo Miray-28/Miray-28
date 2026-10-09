@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.svg" alt="MIRAY — bannière ASCII en style terminal." width="100%" />
+  <img src="./banner-ascii.svg" alt="MIRAY — bannière ASCII en style terminal." width="100%" />
 </p>
 
 <p align="center"><strong>Cybersécurité · Linux · CTF</strong></p>
