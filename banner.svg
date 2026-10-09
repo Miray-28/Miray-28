@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="270" viewBox="0 0 1100 270">
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#10141b"/><stop offset="1" stop-color="#07090d"/></linearGradient></defs>
+  <rect x="1" y="1" width="1098" height="268" rx="16" fill="url(#bg)" stroke="#303740"/>
+  <g fill="none" stroke="#b5c2d1" stroke-opacity=".09">
+    <path d="M 650 0 C 480 150 780 180 840 270"/><path d="M 666 0 C 502 150 790 180 863 270"/><path d="M 682 0 C 524 150 800 180 886 270"/><path d="M 698 0 C 546 150 810 180 909 270"/><path d="M 714 0 C 568 150 820 180 932 270"/><path d="M 730 0 C 590 150 830 180 955 270"/><path d="M 746 0 C 612 150 840 180 978 270"/><path d="M 762 0 C 634 150 850 180 1001 270"/><path d="M 778 0 C 656 150 860 180 1024 270"/><path d="M 794 0 C 678 150 870 180 1047 270"/><path d="M 810 0 C 700 150 880 180 1070 270"/><path d="M 826 0 C 722 150 890 180 1093 270"/><path d="M 842 0 C 744 150 900 180 1116 270"/>
+    <circle cx="919" cy="128" r="85"/><circle cx="919" cy="128" r="114"/>
+  </g>
+  <g font-family="monospace" fill="#7f8a99" font-size="12" letter-spacing="2">
+    <text x="48" y="43">MIRAY.28 / PROFIL PERSONNEL</text>
+    <text x="1050" y="43" text-anchor="end">FRANCE</text>
+    <text x="48" y="235">LINUX · CYBER · HARDWARE</text>
+    <text x="1050" y="235" text-anchor="end">DEBIAN</text>
+  </g>
+  <text x="44" y="167" font-family="Arial, sans-serif" font-size="109" font-weight="700" letter-spacing="-5" fill="#eef1f5">MIRAY<tspan fill="#8e9daf">.</tspan></text>
+  <path d="M 49 191 H 542" stroke="#424b59"/>
+  <g fill="#9cabbc"><circle cx="919" cy="128" r="4"/><circle cx="919" cy="43" r="2"/><circle cx="1004" cy="128" r="2"/></g>
+  <path d="M 902 128 H 936 M 919 111 V 145" stroke="#8493a4" stroke-opacity=".55"/>
+</svg>
